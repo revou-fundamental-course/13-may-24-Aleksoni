@@ -1,1 +1,1 @@
-// Ini JS 
+function peringatan(){console.log("test");}
